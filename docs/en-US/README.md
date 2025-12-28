@@ -130,4 +130,4 @@ A: You can find the `<style>` tags in `index.js` under the `LAYOUT_STYLES` const
 
 ## 📄 License
 
-This project is licensed under the **ISC License**.
+This project is licensed under the **MIT License**.

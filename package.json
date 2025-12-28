@@ -18,7 +18,7 @@
     "version": ">=3.0.0"
   },
   "author": "2winter",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A Hexo plugin to generate customizable HTML format sitemap, support controlling categories/posts/pages generation, excluding specified pages and multiple layout styles.",
   "dependencies": {
     "lodash": "^4.17.21",
