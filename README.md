@@ -3,7 +3,9 @@
 
 A **modern, responsive, and highly configurable** Hexo plugin to generate elegant HTML sitemaps. Fully compatible with **Node 22+** and **Hexo 6.x**.
 
-> 📌  [中文版本 (Chinese Version)](../zh-CN/README.md)
+> 📌  [中文版本 (Chinese Version)](./docs/zh-CN/README.md)
+
+
 
 ## ✨ Core Features
 

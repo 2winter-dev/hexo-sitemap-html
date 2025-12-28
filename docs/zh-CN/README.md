@@ -4,7 +4,7 @@
 
 一个**现代、响应式、高度可配置**的 Hexo 插件，用于生成美观的 HTML 格式站点地图。完美适配 **Node 22+** 和 **Hexo 6.x**。
 
-> 📌 语言切换：[English Version](https://www.google.com/search?q=../en-US/README.md)
+> 📌 语言切换：[English Version](../en-US/README.md)
 
 ## ✨ 核心特性
 
