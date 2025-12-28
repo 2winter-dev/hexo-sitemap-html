@@ -165,6 +165,8 @@ async function createHtmlSitemap(hexo, force = false) {
 
 // 插件入口
 module.exports = function(hexo) {
+  hexo.log.info('[hexo-sitemap-html] Plugin loaded successfully');
+  
   // 生成器：hexo g 时自动运行
   hexo.extend.generator.register('html-sitemap', function(locals) {
     return createHtmlSitemap(this);
