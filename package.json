@@ -1,6 +1,6 @@
 {
   "name": "hexo-sitemap-html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "sitemap-html",
     "html-sitemap"
   ],
-  "hexo": { 
+  "hexo": {
     "version": ">=3.0.0"
   },
   "author": "2winter",
