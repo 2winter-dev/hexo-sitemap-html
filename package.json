@@ -1,0 +1,40 @@
+{
+  "name": "hexo-sitemap-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "hexo-sitemap",
+    "hexo-html-sitemap",
+    "sitemap",
+    "sitemap-html",
+    "html-sitemap"
+  ],
+  "hexo": { 
+    "version": ">=3.0.0"
+  },
+  "author": "2winter",
+  "license": "ISC",
+  "description": "A Hexo plugin to generate customizable HTML format sitemap, support controlling categories/posts/pages generation, excluding specified pages and multiple layout styles.",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "hexo-fs": "^3.1.0"
+  },
+  "peerDependencies": {
+    "hexo": ">=3.0.0 <8.0.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+}
