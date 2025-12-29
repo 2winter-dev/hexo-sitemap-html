@@ -2,9 +2,12 @@
 
 # hexo-sitemap-html
 
+[![npm version](https://img.shields.io/npm/v/hexo-sitemap-html.svg?style=flat-square)](https://www.npmjs.com/package/hexo-sitemap-html) [![npm downloads](https://img.shields.io/npm/dm/hexo-sitemap-html.svg?style=flat-square)](https://www.npmjs.com/package/hexo-sitemap-html) [![License](https://img.shields.io/npm/l/hexo-sitemap-html.svg?style=flat-square)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/2winter-dev/hexo-sitemap-html.svg?style=flat-square)](https://github.com/2winter-dev/hexo-sitemap-html)
+
 一个**现代、响应式、高度可配置**的 Hexo 插件，用于生成美观的 HTML 格式站点地图。完美适配 **Node 22+** 和 **Hexo 6.x**。
 
 > 📌 语言切换：[English Version](../en-US/README.md)
+
 
 ## ✨ 核心特性
 

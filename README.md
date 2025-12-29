@@ -1,10 +1,11 @@
 
 # hexo-sitemap-html
 
+[![npm version](https://img.shields.io/npm/v/hexo-sitemap-html.svg?style=flat-square)](https://www.npmjs.com/package/hexo-sitemap-html) [![npm downloads](https://img.shields.io/npm/dm/hexo-sitemap-html.svg?style=flat-square)](https://www.npmjs.com/package/hexo-sitemap-html) [![License](https://img.shields.io/npm/l/hexo-sitemap-html.svg?style=flat-square)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/2winter-dev/hexo-sitemap-html.svg?style=flat-square)](https://github.com/2winter-dev/hexo-sitemap-html)
+
 A **modern, responsive, and highly configurable** Hexo plugin to generate elegant HTML sitemaps. Fully compatible with **Node 22+** and **Hexo 6.x**.
 
 > 📌  [中文版本 (Chinese Version)](./docs/zh-CN/README.md)
-
 
 
 ## ✨ Core Features
