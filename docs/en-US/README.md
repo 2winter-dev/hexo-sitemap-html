@@ -15,7 +15,6 @@ A **modern, responsive, and highly configurable** Hexo plugin to generate elegan
 
 * 🚀 **Node 22 Ready**: Uses the modern `module.exports` pattern to ensure perfect compatibility with the latest Node.js environments.
 * 📱 **Responsive Design**: Brand new `modern` layout with a card-grid system that looks great on mobile and desktop.
-* 🔗 **Auto Menu Injection**: Automatically injects a "Sitemap" link into your theme's navigation bar (supports most mainstream themes).
 * 📝 **Flexible Configuration**: Independently enable/disable categories, posts, or pages.
 * 🚫 **Fuzzy Exclusion**: Precisely exclude unwanted pages (e.g., 404, tags) using keywords in titles or paths.
 * 🎨 **Multiple Layouts**: Built-in styles including `Modern`, `Simple`, and `Rich`.
